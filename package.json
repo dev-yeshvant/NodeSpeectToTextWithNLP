@@ -12,7 +12,7 @@
   "dependencies": {
     "@google-cloud/language": "^3.2.3",
     "@google-cloud/speech": "^3.2.2",
-    "async": "^3.1.0",
+    "async": "^3.2.2",
     "bluebird": "^3.5.5",
     "body-parser": "^1.19.0",
     "compromise": "^11.13.2",
